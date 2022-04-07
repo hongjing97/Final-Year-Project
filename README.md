@@ -1,5 +1,5 @@
-# Final-Year-Project
-A Study on Multirotor Aircraft Energy Consumption Estimation Towards Delivery Operations in the Urban Environment. Undergraduate Project No. B327, NTU Singapore, School of Mechanical and Aerospace Engineering.
+# Final-Year-Project AY2021/2022
+A Study on Multirotor Aircraft Energy Consumption Estimation Towards Delivery Operations in the Urban Environment. Undergraduate Project No. B327, NTU Singapore, School of Mechanical and Aerospace Engineering. 
 
 General Packages
 --------------
