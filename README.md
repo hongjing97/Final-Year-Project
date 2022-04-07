@@ -1,5 +1,5 @@
 # Final-Year-Project AY2021/2022
-A Study on Multirotor Aircraft Energy Consumption Estimation Towards Delivery Operations in the Urban Environment. Undergraduate Project No. B327, NTU Singapore, School of Mechanical and Aerospace Engineering. 
+A Study on Multirotor Aircraft Energy Consumption Estimation Towards Delivery Operations in the Urban Environment. Undergraduate Project No. B327, NTU Singapore, School of Mechanical and Aerospace Engineering. The original FYP report can be found in NTU repository. Please email hng029@ntu.edu.sg for any queries. Thank you.
 
 General Packages
 --------------
@@ -24,5 +24,3 @@ References
 2. Introduction to Machine Learning. Coursera course by Duke University. Available: https://www.coursera.org/learn/machine-learning-duke
 3. Optuna optimization. Available: https://github.com/optuna/optuna-examples
 4. TCN energy model. Available: https://github.com/castacks/cvar-energy-risk-deep-model
-
-The original FYP report can be found in NTU repository. Please email hng029@ntu.edu.sg for any queries. Thank you.
